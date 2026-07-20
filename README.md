@@ -9,61 +9,30 @@
 
 ### Informatics Engineering Student · Full-Stack & Backend Developer
 
-Full-Stack Developer focused on backend architecture, RESTful APIs, database systems, and production-ready web applications.
+I build software systems from the ground up — designing backend architecture, developing full-stack applications, structuring data, and deploying reliable products.
 
 </div>
 
 ---
 
-<!-- Terminal Section -->
-```
-$ whoami
-  Syafiq
+## 💻 Tech Stack & Tools
 
-$ role
-  Full-Stack & Backend Developer
-
-$ currently_building
-  → Seventh Sky Store   (Fashion E-Commerce Platform)
-  → Seventh Sky Style   (AI Fashion Stylist)
-
-$ status
-  ACTIVE
-```
-
----
-
-## Tech Stack
-
-**Backend**
-&nbsp;
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-**Frontend**
-&nbsp;
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Database**
-&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-
-**Cloud & Deployment**
-&nbsp;
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-**Tools**
-&nbsp;
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=php,js,ts,python,sql&perline=5"
+    alt="Programming Languages"
+  />
+  <br />
+  <img
+    src="https://skillicons.dev/icons?i=laravel,nestjs,fastapi,nodejs,nextjs,react,vue,tailwind&perline=8"
+    alt="Backend and Frontend Technologies"
+  />
+  <br />
+  <img
+    src="https://skillicons.dev/icons?i=postgres,mysql,prisma,aws,vercel,cloudinary,git,github,postman,vscode&perline=10"
+    alt="Database, Cloud, Deployment, and Development Tools"
+  />
+</p>
 
 ---
 
