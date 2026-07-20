@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200">
+  <defs>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#58a6ff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#bc8cff;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#58a6ff;stop-opacity:0" />
+      <stop offset="50%" style="stop-color:#58a6ff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#58a6ff;stop-opacity:0" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="200" fill="#0d1117" rx="8"/>
+
+  <!-- Decorative accent line top -->
+  <line x1="100" y1="40" x2="700" y2="40" stroke="url(#line)" stroke-width="1" opacity="0.3"/>
+
+  <!-- Name -->
+  <text x="400" y="95" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'Consolas', monospace" font-size="42" font-weight="700" fill="url(#accent)">
+    SyafiqArsy
+  </text>
+
+  <!-- Cursor blink -->
+  <rect x="545" y="70" width="3" height="28" fill="#58a6ff" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;0;0.8" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Subtitle -->
+  <text x="400" y="130" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'Consolas', monospace" font-size="14" fill="#8b949e" letter-spacing="2">
+    FULL-STACK DEVELOPER · BACKEND DEVELOPER
+  </text>
+
+  <!-- Decorative dots -->
+  <circle cx="320" cy="155" r="2" fill="#58a6ff" opacity="0.6"/>
+  <circle cx="340" cy="155" r="2" fill="#58a6ff" opacity="0.4"/>
+  <circle cx="360" cy="155" r="2" fill="#58a6ff" opacity="0.2"/>
+
+  <!-- Decorative accent line bottom -->
+  <line x1="100" y1="175" x2="700" y2="175" stroke="url(#line)" stroke-width="1" opacity="0.15"/>
+</svg>
