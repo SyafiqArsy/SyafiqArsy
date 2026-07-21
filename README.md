@@ -15,6 +15,8 @@ I build software systems from the ground up — designing backend architecture, 
 
 ---
 
+<div align="center">
+
 ## 💻 Tech Stack & Tools
 
 <p align="center">
@@ -34,9 +36,15 @@ I build software systems from the ground up — designing backend architecture, 
   />
 </p>
 
+</div>
+
 ---
 
-## Featured Projects
+<div align="center">
+
+## 🚀 Featured Projects
+
+</div>
 
 <table>
 <tr>
@@ -75,29 +83,6 @@ AI-powered personal fashion stylist that provides outfit recommendations based o
 
 </td>
 </tr>
-<tr>
-<td width="50%">
-
-### 🌐 Portfolio Website
-
-Personal developer portfolio showcasing projects, skills, and professional experience with a modern design.
-
-**Key Features**
-- Project showcase & case studies
-- Skills & tech stack visualization
-- Responsive & accessible design
-- Performance optimized
-
-**Tech:** Next.js · Tailwind CSS
-
-🔗 [Repository](https://github.com/SyafiqArsy/syafiqarsy-portofolio)
-
-</td>
-<td width="50%">
-
-<!-- Empty cell for alignment -->
-</td>
-</tr>
 </table>
 
 ---
@@ -113,12 +98,14 @@ Personal developer portfolio showcasing projects, skills, and professional exper
 
 ---
 
-## Connect
-
 <div align="center">
 
+## Connect With Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syafiqarsy24@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SyafiqArsy)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyafiqArsy)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syafiqarsy24@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SyafiqArsy)
 
 </div>
 
