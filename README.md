@@ -110,9 +110,3 @@ AI-powered personal fashion stylist that provides outfit recommendations based o
 </div>
 
 ---
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=SyafiqArsy&color=58a6ff&style=flat-square&label=Profile+Views)
-
-</div>
