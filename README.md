@@ -9,7 +9,7 @@
 
 ### Informatics Engineering Student · Full-Stack & Backend Developer
 
-I build software systems from the ground up — designing backend architecture, developing full-stack applications, structuring data, and deploying reliable products.
+I’m an Informatics Engineering student at Sebelas Maret University passionate about Software Engineering and Full-Stack Development. I build reliable web applications and backend services from the ground up by designing clean architectures, developing RESTful APIs, structuring relational databases, and deploying maintainable software with modern technologies.
 
 </div>
 
