@@ -26,6 +26,15 @@
 <br>
 <br>
 
+<h3><code>syafiq@github ~ $ ./about.sh</code></h3>
+
+<p>
+I’m an Informatics Engineering student at Sebelas Maret University passionate about Software Engineering and Full-Stack Development. I build reliable web applications and backend services from the ground up by designing clean architectures, developing RESTful APIs, structuring relational databases, and deploying maintainable software with modern technologies.
+</p>
+
+<br>
+<br>
+
 <h3><code>syafiq@github ~ $ ./links.sh</code></h3>
 
 <p><b>Web Developer · Tech Enthusiast · Lifelong Learner</b></p>
