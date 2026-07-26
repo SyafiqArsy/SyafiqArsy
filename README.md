@@ -39,10 +39,10 @@ I’m an Informatics Engineering student at Sebelas Maret University passionate 
 
 <p><b>Web Developer · AI Enthusiast · Lifelong Learner</b></p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-your-site.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://syafiqarsy-portofolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yourprofile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syafiq-arsy)
-[![Instagram](https://img.shields.io/badge/Instagram-yourhandle-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/syaqars/)
-[![GitHub](https://img.shields.io/badge/GitHub-yourusername-22d3ee?style=for-the-badge&logo=github&logoColor=black)](https://github.com/SyafiqArsy)
+[![Portfolio](https://img.shields.io/badge/Portfolio-syafiqarsy.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://syafiqarsy-portofolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Syafiq_Arsy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syafiq-arsy)
+[![Instagram](https://img.shields.io/badge/Instagram-@syaqars-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/syaqars/)
+[![GitHub](https://img.shields.io/badge/GitHub-SyafiqArsy-22d3ee?style=for-the-badge&logo=github&logoColor=black)](https://github.com/SyafiqArsy)
 
 <br>
 
