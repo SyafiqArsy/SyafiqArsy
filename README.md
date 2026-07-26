@@ -37,7 +37,7 @@ I’m an Informatics Engineering student at Sebelas Maret University passionate 
 
 <h3><code>syafiq@github ~ $ ./links.sh</code></h3>
 
-<p><b>Web Developer · Tech Enthusiast · Lifelong Learner</b></p>
+<p><b>Web Developer · AI Enthusiast · Lifelong Learner</b></p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-your-site.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://syafiqarsy-portofolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yourprofile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syafiq-arsy)
